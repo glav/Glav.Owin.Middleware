@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glav.Owin.Middleware", "Glav.Owin.Middleware\Glav.Owin.Middleware.csproj", "{B2B6F95E-735B-4D04-94BE-496B21685F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glav.Owin.Consumer.Test.BasicWebConsumer", "Glav.Owin.Consumer.Test.BasicWebConsumer\Glav.Owin.Consumer.Test.BasicWebConsumer.csproj", "{0D406751-B5DD-4BA3-ABE4-641D80B8493D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B6F95E-735B-4D04-94BE-496B21685F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B6F95E-735B-4D04-94BE-496B21685F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B6F95E-735B-4D04-94BE-496B21685F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B6F95E-735B-4D04-94BE-496B21685F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D406751-B5DD-4BA3-ABE4-641D80B8493D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D406751-B5DD-4BA3-ABE4-641D80B8493D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D406751-B5DD-4BA3-ABE4-641D80B8493D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D406751-B5DD-4BA3-ABE4-641D80B8493D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
